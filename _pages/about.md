@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: "Yufei Feng’s Homepage"
 author_profile: true
 redirect_from: 
   - /about/
