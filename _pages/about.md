@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * 2018.07 - Now: 
-  * In Taobao Homepage Guess U Like team, Alibaba Group
+  * In EdgeRec team of Taobao Homepage Guess U Like, Taobao Technique Department, Alibaba Group
   * Serve as Senior Algorithm Engineer 
 
 <a href="/publications/" style="color:#000000">Publications</a>
