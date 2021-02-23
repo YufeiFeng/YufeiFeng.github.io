@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% include base_path %}
-
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -40,18 +38,6 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
