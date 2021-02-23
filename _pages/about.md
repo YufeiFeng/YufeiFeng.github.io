@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+Biography
+======
+TBD.
+
 Education
 ======
 * 2014.09 - 2018.06: 
@@ -29,5 +33,10 @@ Skills
 ======
 * Recommender system
   * Matching, Ranking and Re-ranking
+  * Data mining
 * Deep learning, Tensorflow
 * Python, Java and Sql
+
+Research Interest
+======
+TBD.
