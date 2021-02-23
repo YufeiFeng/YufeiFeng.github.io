@@ -15,7 +15,7 @@ Education
 Work experience
 ======
 * 2018.07 - Now: Alibaba Group
-  * Senior Algorithm Engineer in Homepage guess u like team
+  * Senior Algorithm Engineer in Taobao Homepage Guess U Like team
 
 Publications
 ======
