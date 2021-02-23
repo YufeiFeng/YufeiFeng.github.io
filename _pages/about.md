@@ -17,7 +17,7 @@ Work experience
 * 2018.07 - Now: Alibaba Group
   * Senior Algorithm Engineer in Taobao Homepage Guess U Like team
 
-Publications
+<a href="/publications/">Publications</a>
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -26,6 +26,6 @@ Publications
 Skills
 ======
 * Recommender system
-  * Matching, ranking and re-ranking
-* Deep learning
+  * Matching, Ranking and Re-ranking
+* Deep learning, Tensorflow
 * Python, Java and Sql
