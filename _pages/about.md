@@ -17,7 +17,7 @@ Work experience
 * 2018.07 - Now: Alibaba Group
   * Senior Algorithm Engineer in Taobao Homepage Guess U Like team
 
-<a href="/publications/" color=black >Publications</a>
+<a href="/publications/" style="color:#000000">Publications</a>
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
