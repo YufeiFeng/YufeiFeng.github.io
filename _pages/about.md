@@ -37,6 +37,6 @@ Skills
 * Deep learning, Tensorflow
 * Python, Java and Sql
 
-Research Interest
+Research Interests
 ======
 TBD.
