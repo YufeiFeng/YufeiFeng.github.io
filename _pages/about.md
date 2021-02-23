@@ -10,12 +10,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in Zhejiang University, 2014.09 - 2018.06
+* 2014.09 - 2018.06: 
+  * B.S. in Zhejiang University, 
 
 Work experience
 ======
-* 2018.07 - Now: Alibaba Group
-  * Senior Algorithm Engineer in Taobao Homepage Guess U Like team
+* 2018.07 - Now: 
+  * In Taobao Homepage Guess U Like team, Alibaba Group
+  * Serve as senior Algorithm Engineer 
 
 <a href="/publications/" style="color:#000000">Publications</a>
 ======
