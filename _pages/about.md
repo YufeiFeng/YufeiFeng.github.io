@@ -39,4 +39,7 @@ Skills
 
 Research Interests
 ======
-TBD.
+* Matching, Ranking and Re-ranking algorithms in Recommender system
+* NLP (Natural Language Processing)
+* IR (Information Retrieval)
+* RL (Reinforcement Learning)
