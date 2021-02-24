@@ -26,7 +26,7 @@ Work experience
     * Proposed a session-based CTR prediction model DSIN, contributing to 5.2% CTR lift 
     * Proposed KG-enhanced CTR prediction models MTBRN and ATRBG, contributing to 6.8% CTR lift 
     * Implemented a CTR prediction framework based on tensorflow, contributing to significant CTR lifts in various scenarios
-  * Promoting related fields of the industry:
+  * Promoting related fields of the research and industry:
     * Published 4 papers in SIGIR, CIKM and IJCAI, three of which I am the first authorship 
     * Submitted 2 papers to SIGIR-2021 and KDD-2021, both of which I am the first authorship 
 
