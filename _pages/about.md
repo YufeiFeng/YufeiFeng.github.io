@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Biography
-======
-TBD.
-
 Education
 ======
 * 2014.09 - 2018.06: 
