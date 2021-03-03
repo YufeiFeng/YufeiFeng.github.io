@@ -20,7 +20,7 @@ Work experience
   * In EdgeRec team of Taobao Homepage Guess U Like, Taobao Technique Department, Alibaba Group
   * Promoting efficiency in re-ranking algorithms:
     * Proposed a context-wise generative re-ranking model GRN, contributing to 5.2% PV lift and 6.1% IPV lift 
-    * Proposed a permutation-wise re-ranking framework LRS, contributing to 11.0% PV lift and 8.7% IPV lift 
+    * Proposed a permutation-wise re-ranking framework PRS, contributing to 11.0% PV lift and 8.7% IPV lift 
     * Participated in the implementation of recommender system in the edge computing (EdgeRec)
   * Promoting user behavior modeling in CTR prediction:
     * Proposed a session-based CTR prediction model DSIN, contributing to 5.2% CTR lift 
